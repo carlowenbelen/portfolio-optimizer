@@ -1,0 +1,22 @@
+{
+  "tech-giants": {
+    "description": "Five US mega-cap tech names",
+    "tickers": ["AAPL", "MSFT", "GOOGL", "AMZN", "NVDA"]
+  },
+  "magnificent-7": {
+    "description": "The 'Magnificent 7' that drove most of 2023-24 S&P 500 returns",
+    "tickers": ["AAPL", "MSFT", "GOOGL", "AMZN", "NVDA", "META", "TSLA"]
+  },
+  "defensive": {
+    "description": "Low-volatility consumer staples + healthcare",
+    "tickers": ["JNJ", "KO", "PG", "WMT", "PEP"]
+  },
+  "all-weather": {
+    "description": "Inspired by Ray Dalio's All Weather portfolio",
+    "tickers": ["VTI", "TLT", "IEF", "GLD", "DBC"]
+  },
+  "crypto-mix": {
+    "description": "Major crypto via spot ETFs and proxies",
+    "tickers": ["IBIT", "FBTC", "ETHE", "COIN", "MSTR"]
+  }
+}
