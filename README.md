@@ -4,7 +4,7 @@ Computes the **Markowitz efficient frontier** for any basket of assets, finds th
 
 ## Why I built it
 
-I run a Monte Carlo simulator for trading strategies (the [companion repo](https://github.com/YOUR-USERNAME/trading-strategy-monte-carlo)). That tool tells you what *one* strategy will do under randomness. This tool answers a different question: **given a basket of assets, what's the best mix?**
+I run a Monte Carlo simulator for trading strategies (the [companion repo](https://github.com/carlowenbelen/trading-strategy-monte-carlo)). That tool tells you what *one* strategy will do under randomness. This tool answers a different question: **given a basket of assets, what's the best mix?**
 
 Modern Portfolio Theory (Markowitz 1952) won a Nobel Prize for the answer: for any expected return target, there's a portfolio that achieves it with the lowest possible risk. The set of all those portfolios traces out the **efficient frontier**. Real money managers still start here, then layer constraints on top.
 
@@ -22,7 +22,7 @@ Modern Portfolio Theory (Markowitz 1952) won a Nobel Prize for the answer: for a
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/portfolio-optimizer.git
+git clone https://github.com/carlowenbelen/portfolio-optimizer.git
 cd portfolio-optimizer
 pip install -r requirements.txt
 
@@ -159,4 +159,4 @@ MIT — use it, fork it, ship something.
 
 ---
 
-Built by **Carl Owen E. Belen** &middot; companion to my [Trading Strategy Monte Carlo simulator](https://github.com/YOUR-USERNAME/trading-strategy-monte-carlo) &middot; [Portfolio](https://github.com/carlowenbelen)
+Built by **Carl Owen E. Belen** &middot; companion to my [Trading Strategy Monte Carlo simulator](https://github.com/carlowenbelen/trading-strategy-monte-carlo) &middot; [Portfolio](https://github.com/carlowenbelen)
